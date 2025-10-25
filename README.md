@@ -11,7 +11,7 @@ This portfolio showcases projects that reflect my interests in machine learning,
 |------|------|------|------|------|------|------|
 | Coors Effect Analysis | Investigating how altitude affects baseball performance metrics using Statcast data. | Python, Jupyter, Pandas, Matplotlib | 10.25.2025 | 10.25.2025 | [View Notebook](https://github.com/skparagas/Coors-Hangover-Effect/) | [Report Short](#) [Report Long](#) |
 | DofBot Programming | Implementation of numerical solutions for robotic arm control using forward kinematics, inverse kinematics, path following, and feedback control. | Python, NumPy, Robotics Toolbox | 10.25.2025 | 10.25.2025 | [View Repository](https://github.com/H2re/DofBot) |  |
-| Reinforcement Learning Agent | Developed and trained a simple AI using OpenAI Gym and TensorFlow to play online games. Tracked performance over time to measure learning improvements. | Python, TensorFlow, OpenAI Gym | 10.25.2025 | 10.25.2025 | [View Repository](https://github.com/ContemporaryNietzsche/CognitiveModelingProject) |  |
+| Reinforcement Learning Agent | Developed and trained a simple AI using OpenAI Gym and TensorFlow to play online games. Tracked performance over time to measure learning improvements. | Python, TensorFlow, OpenAI Gym | 2.1.2025 | 2.1.2025 | [View Repository](https://github.com/ContemporaryNietzsche/CognitiveModelingProject) |  |
 
 ---
 
